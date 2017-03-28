@@ -27,3 +27,5 @@ require 'partitioned/multi_level/configurator/data'
 require 'partitioned/multi_level/configurator/dsl'
 require 'partitioned/multi_level/configurator/reader'
 require 'partitioned/multi_level/partition_manager'
+
+require 'partitioned/relation'
